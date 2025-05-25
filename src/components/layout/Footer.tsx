@@ -66,7 +66,7 @@ const Footer = () => {
               <li className="flex items-center space-x-3">
                 <Phone size={18} className="text-pink-400" />
                 <a href="tel:+79991234567" className="text-gray-400 hover:text-pink-400 transition-colors">
-                  +7 (999) 123-45-67
+                  +996 (999) 12-45-67
                 </a>
               </li>
               <li className="flex items-center space-x-3">
@@ -77,7 +77,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <MapPin size={18} className="text-pink-400" />
-                <span className="text-gray-400">Москва, ул. Красоты, д. 1</span>
+                <span className="text-gray-400">Бишкек, ул. Виноградная 1/14 </span>
               </li>
               <li className="flex items-center space-x-4 mt-4">
                 <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-pink-400 transition-colors">
